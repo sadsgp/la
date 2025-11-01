@@ -3,7 +3,7 @@
   background-image:none;
   position:relative;
   left:0px;
-  width:1611px;
+  width:1400px;
   margin-left:auto;
   margin-right:auto;
   text-align:left;
@@ -21,7 +21,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:1611px;
+  width:1400px;
   height:811px;
 }
 #u0 {
@@ -29,7 +29,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:1611px;
+  width:1400px;
   height:811px;
   display:flex;
 }
@@ -57,11 +57,12 @@
 #u1 {
   border-width:0px;
   position:absolute;
-  left:1077px;
-  top:158px;
+  left:63px;
+  top:119px;
   width:344px;
   height:495px;
   display:flex;
+  opacity:0.8;
 }
 #u1 .text {
   position:absolute;
@@ -79,8 +80,8 @@
 #u2 {
   border-width:0px;
   position:absolute;
-  left:1127px;
-  top:506px;
+  left:113px;
+  top:467px;
   width:244px;
   height:21px;
 }
@@ -343,7 +344,7 @@
   width:244px;
   height:39px;
   padding:2px 4px 2px 2px;
-  font-family:'Yekan Bakh FaNum Bold', 'Yekan Bakh FaNum', sans-serif;
+  font-family:'Yekan Bakh FaNum Bold', 'Yekan Bakh FaNum Regular', 'Yekan Bakh FaNum', sans-serif;
   font-weight:700;
   font-style:normal;
   font-size:16px;
@@ -362,7 +363,7 @@
   width:244px;
   height:39px;
   padding:2px 4px 2px 2px;
-  font-family:'Yekan Bakh FaNum Bold', 'Yekan Bakh FaNum', sans-serif;
+  font-family:'Yekan Bakh FaNum Bold', 'Yekan Bakh FaNum Regular', 'Yekan Bakh FaNum', sans-serif;
   font-weight:700;
   font-style:normal;
   font-size:16px;
@@ -391,7 +392,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Yekan Bakh FaNum Bold', 'Yekan Bakh FaNum', sans-serif;
+  font-family:'Yekan Bakh FaNum Bold', 'Yekan Bakh FaNum Regular', 'Yekan Bakh FaNum', sans-serif;
   font-weight:700;
   font-style:normal;
   font-size:16px;
@@ -401,12 +402,12 @@
 #u5 {
   border-width:0px;
   position:absolute;
-  left:1127px;
-  top:378px;
+  left:113px;
+  top:339px;
   width:244px;
   height:39px;
   display:flex;
-  font-family:'Yekan Bakh FaNum Bold', 'Yekan Bakh FaNum', sans-serif;
+  font-family:'Yekan Bakh FaNum Bold', 'Yekan Bakh FaNum Regular', 'Yekan Bakh FaNum', sans-serif;
   font-weight:700;
   font-style:normal;
   font-size:16px;
@@ -437,7 +438,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Yekan Bakh FaNum Bold', 'Yekan Bakh FaNum', sans-serif;
+  font-family:'Yekan Bakh FaNum Bold', 'Yekan Bakh FaNum Regular', 'Yekan Bakh FaNum', sans-serif;
   font-weight:700;
   font-style:normal;
   font-size:16px;
@@ -453,7 +454,7 @@
   width:244px;
   height:39px;
   padding:2px 2px 2px 2px;
-  font-family:'Yekan Bakh FaNum Bold', 'Yekan Bakh FaNum', sans-serif;
+  font-family:'Yekan Bakh FaNum Bold', 'Yekan Bakh FaNum Regular', 'Yekan Bakh FaNum', sans-serif;
   font-weight:700;
   font-style:normal;
   font-size:13px;
@@ -472,7 +473,7 @@
   width:244px;
   height:39px;
   padding:2px 2px 2px 2px;
-  font-family:'Yekan Bakh FaNum Bold', 'Yekan Bakh FaNum', sans-serif;
+  font-family:'Yekan Bakh FaNum Bold', 'Yekan Bakh FaNum Regular', 'Yekan Bakh FaNum', sans-serif;
   font-weight:700;
   font-style:normal;
   font-size:13px;
@@ -501,19 +502,19 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Yekan Bakh FaNum Bold', 'Yekan Bakh FaNum', sans-serif;
+  font-family:'Yekan Bakh FaNum Bold', 'Yekan Bakh FaNum Regular', 'Yekan Bakh FaNum', sans-serif;
   font-weight:700;
   font-style:normal;
 }
 #u6 {
   border-width:0px;
   position:absolute;
-  left:1127px;
-  top:467px;
+  left:113px;
+  top:428px;
   width:244px;
   height:39px;
   display:flex;
-  font-family:'Yekan Bakh FaNum Bold', 'Yekan Bakh FaNum', sans-serif;
+  font-family:'Yekan Bakh FaNum Bold', 'Yekan Bakh FaNum Regular', 'Yekan Bakh FaNum', sans-serif;
   font-weight:700;
   font-style:normal;
 }
@@ -541,7 +542,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Yekan Bakh FaNum Bold', 'Yekan Bakh FaNum', sans-serif;
+  font-family:'Yekan Bakh FaNum Bold', 'Yekan Bakh FaNum Regular', 'Yekan Bakh FaNum', sans-serif;
   font-weight:700;
   font-style:normal;
 }
@@ -561,7 +562,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Yekan Bakh FaNum Bold', 'Yekan Bakh FaNum', sans-serif;
+  font-family:'Yekan Bakh FaNum Bold', 'Yekan Bakh FaNum Regular', 'Yekan Bakh FaNum', sans-serif;
   font-weight:700;
   font-style:normal;
   font-size:16px;
@@ -569,12 +570,12 @@
 #u7 {
   border-width:0px;
   position:absolute;
-  left:1127px;
-  top:562px;
+  left:113px;
+  top:523px;
   width:244px;
   height:41px;
   display:flex;
-  font-family:'Yekan Bakh FaNum Bold', 'Yekan Bakh FaNum', sans-serif;
+  font-family:'Yekan Bakh FaNum Bold', 'Yekan Bakh FaNum Regular', 'Yekan Bakh FaNum', sans-serif;
   font-weight:700;
   font-style:normal;
   font-size:16px;
@@ -598,7 +599,7 @@
   width:261px;
   height:42px;
   padding:2px 2px 2px 2px;
-  font-family:'Yekan Bakh FaNum ExtraBold', 'Yekan Bakh FaNum', sans-serif;
+  font-family:'Yekan Bakh FaNum ExtraBold', 'Yekan Bakh FaNum Regular', 'Yekan Bakh FaNum', sans-serif;
   font-weight:800;
   font-style:normal;
   font-size:24px;
@@ -617,7 +618,7 @@
   width:261px;
   height:42px;
   padding:2px 2px 2px 2px;
-  font-family:'Yekan Bakh FaNum ExtraBold', 'Yekan Bakh FaNum', sans-serif;
+  font-family:'Yekan Bakh FaNum ExtraBold', 'Yekan Bakh FaNum Regular', 'Yekan Bakh FaNum', sans-serif;
   font-weight:800;
   font-style:normal;
   font-size:24px;
@@ -643,7 +644,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Yekan Bakh FaNum ExtraBold', 'Yekan Bakh FaNum', sans-serif;
+  font-family:'Yekan Bakh FaNum ExtraBold', 'Yekan Bakh FaNum Regular', 'Yekan Bakh FaNum', sans-serif;
   font-weight:800;
   font-style:normal;
   font-size:24px;
@@ -653,12 +654,12 @@
 #u8 {
   border-width:0px;
   position:absolute;
-  left:1119px;
-  top:207px;
+  left:105px;
+  top:168px;
   width:261px;
   height:42px;
   display:flex;
-  font-family:'Yekan Bakh FaNum ExtraBold', 'Yekan Bakh FaNum', sans-serif;
+  font-family:'Yekan Bakh FaNum ExtraBold', 'Yekan Bakh FaNum Regular', 'Yekan Bakh FaNum', sans-serif;
   font-weight:800;
   font-style:normal;
   font-size:24px;
@@ -686,7 +687,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Yekan Bakh FaNum ExtraBold', 'Yekan Bakh FaNum', sans-serif;
+  font-family:'Yekan Bakh FaNum ExtraBold', 'Yekan Bakh FaNum Regular', 'Yekan Bakh FaNum', sans-serif;
   font-weight:800;
   font-style:normal;
   font-size:24px;
@@ -702,7 +703,7 @@
   width:261px;
   height:39px;
   padding:2px 2px 2px 2px;
-  font-family:'Yekan Bakh FaNum ExtraBold', 'Yekan Bakh FaNum', sans-serif;
+  font-family:'Yekan Bakh FaNum ExtraBold', 'Yekan Bakh FaNum Regular', 'Yekan Bakh FaNum', sans-serif;
   font-weight:800;
   font-style:normal;
   font-size:20px;
@@ -721,7 +722,7 @@
   width:261px;
   height:39px;
   padding:2px 2px 2px 2px;
-  font-family:'Yekan Bakh FaNum ExtraBold', 'Yekan Bakh FaNum', sans-serif;
+  font-family:'Yekan Bakh FaNum ExtraBold', 'Yekan Bakh FaNum Regular', 'Yekan Bakh FaNum', sans-serif;
   font-weight:800;
   font-style:normal;
   font-size:20px;
@@ -747,7 +748,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Yekan Bakh FaNum ExtraBold', 'Yekan Bakh FaNum', sans-serif;
+  font-family:'Yekan Bakh FaNum ExtraBold', 'Yekan Bakh FaNum Regular', 'Yekan Bakh FaNum', sans-serif;
   font-weight:800;
   font-style:normal;
   font-size:20px;
@@ -757,12 +758,12 @@
 #u9 {
   border-width:0px;
   position:absolute;
-  left:1119px;
-  top:249px;
+  left:105px;
+  top:210px;
   width:261px;
   height:39px;
   display:flex;
-  font-family:'Yekan Bakh FaNum ExtraBold', 'Yekan Bakh FaNum', sans-serif;
+  font-family:'Yekan Bakh FaNum ExtraBold', 'Yekan Bakh FaNum Regular', 'Yekan Bakh FaNum', sans-serif;
   font-weight:800;
   font-style:normal;
   font-size:20px;
@@ -790,7 +791,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Yekan Bakh FaNum ExtraBold', 'Yekan Bakh FaNum', sans-serif;
+  font-family:'Yekan Bakh FaNum ExtraBold', 'Yekan Bakh FaNum Regular', 'Yekan Bakh FaNum', sans-serif;
   font-weight:800;
   font-style:normal;
   font-size:20px;
@@ -806,7 +807,7 @@
   width:92px;
   height:22px;
   padding:2px 2px 2px 2px;
-  font-family:'Yekan Bakh FaNum Bold', 'Yekan Bakh FaNum', sans-serif;
+  font-family:'Yekan Bakh FaNum Bold', 'Yekan Bakh FaNum Regular', 'Yekan Bakh FaNum', sans-serif;
   font-weight:700;
   font-style:normal;
   font-size:16px;
@@ -825,7 +826,7 @@
   width:92px;
   height:22px;
   padding:2px 2px 2px 2px;
-  font-family:'Yekan Bakh FaNum Bold', 'Yekan Bakh FaNum', sans-serif;
+  font-family:'Yekan Bakh FaNum Bold', 'Yekan Bakh FaNum Regular', 'Yekan Bakh FaNum', sans-serif;
   font-weight:700;
   font-style:normal;
   font-size:16px;
@@ -851,7 +852,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Yekan Bakh FaNum Bold', 'Yekan Bakh FaNum', sans-serif;
+  font-family:'Yekan Bakh FaNum Bold', 'Yekan Bakh FaNum Regular', 'Yekan Bakh FaNum', sans-serif;
   font-weight:700;
   font-style:normal;
   font-size:16px;
@@ -861,12 +862,12 @@
 #u10 {
   border-width:0px;
   position:absolute;
-  left:1276px;
-  top:356px;
+  left:262px;
+  top:317px;
   width:92px;
   height:22px;
   display:flex;
-  font-family:'Yekan Bakh FaNum Bold', 'Yekan Bakh FaNum', sans-serif;
+  font-family:'Yekan Bakh FaNum Bold', 'Yekan Bakh FaNum Regular', 'Yekan Bakh FaNum', sans-serif;
   font-weight:700;
   font-style:normal;
   font-size:16px;
@@ -894,7 +895,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Yekan Bakh FaNum Bold', 'Yekan Bakh FaNum', sans-serif;
+  font-family:'Yekan Bakh FaNum Bold', 'Yekan Bakh FaNum Regular', 'Yekan Bakh FaNum', sans-serif;
   font-weight:700;
   font-style:normal;
   font-size:16px;
@@ -910,7 +911,7 @@
   width:78px;
   height:20px;
   padding:2px 2px 2px 2px;
-  font-family:'Yekan Bakh FaNum Bold', 'Yekan Bakh FaNum', sans-serif;
+  font-family:'Yekan Bakh FaNum Bold', 'Yekan Bakh FaNum Regular', 'Yekan Bakh FaNum', sans-serif;
   font-weight:700;
   font-style:normal;
   font-size:16px;
@@ -929,7 +930,7 @@
   width:78px;
   height:20px;
   padding:2px 2px 2px 2px;
-  font-family:'Yekan Bakh FaNum Bold', 'Yekan Bakh FaNum', sans-serif;
+  font-family:'Yekan Bakh FaNum Bold', 'Yekan Bakh FaNum Regular', 'Yekan Bakh FaNum', sans-serif;
   font-weight:700;
   font-style:normal;
   font-size:16px;
@@ -955,7 +956,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Yekan Bakh FaNum Bold', 'Yekan Bakh FaNum', sans-serif;
+  font-family:'Yekan Bakh FaNum Bold', 'Yekan Bakh FaNum Regular', 'Yekan Bakh FaNum', sans-serif;
   font-weight:700;
   font-style:normal;
   font-size:16px;
@@ -965,12 +966,12 @@
 #u11 {
   border-width:0px;
   position:absolute;
-  left:1290px;
-  top:446px;
+  left:276px;
+  top:407px;
   width:78px;
   height:20px;
   display:flex;
-  font-family:'Yekan Bakh FaNum Bold', 'Yekan Bakh FaNum', sans-serif;
+  font-family:'Yekan Bakh FaNum Bold', 'Yekan Bakh FaNum Regular', 'Yekan Bakh FaNum', sans-serif;
   font-weight:700;
   font-style:normal;
   font-size:16px;
@@ -998,7 +999,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Yekan Bakh FaNum Bold', 'Yekan Bakh FaNum', sans-serif;
+  font-family:'Yekan Bakh FaNum Bold', 'Yekan Bakh FaNum Regular', 'Yekan Bakh FaNum', sans-serif;
   font-weight:700;
   font-style:normal;
   font-size:16px;
@@ -1019,7 +1020,7 @@
   font-style:normal;
   font-size:14px;
   letter-spacing:normal;
-  color:#000000;
+  color:#FFFFFF;
   vertical-align:none;
   text-align:center;
   text-transform:none;
@@ -1038,7 +1039,7 @@
   font-style:normal;
   font-size:14px;
   letter-spacing:normal;
-  color:#000000;
+  color:#FFFFFF;
   vertical-align:none;
   text-align:center;
   text-transform:none;
@@ -1063,13 +1064,14 @@
   font-weight:700;
   font-style:normal;
   font-size:14px;
+  color:#FFFFFF;
   text-align:center;
 }
 #u12 {
   border-width:0px;
   position:absolute;
-  left:521px;
-  top:784px;
+  left:416px;
+  top:785px;
   width:568px;
   height:26px;
   display:flex;
@@ -1077,6 +1079,7 @@
   font-weight:700;
   font-style:normal;
   font-size:14px;
+  color:#FFFFFF;
   text-align:center;
 }
 #u12 .text {
@@ -1104,6 +1107,7 @@
   font-weight:700;
   font-style:normal;
   font-size:14px;
+  color:#FFFFFF;
   text-align:center;
 }
 #u12.disabled {
