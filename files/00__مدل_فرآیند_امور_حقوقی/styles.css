@@ -3,7 +3,7 @@
   background-image:none;
   position:relative;
   left:0px;
-  width:2032px;
+  width:3329px;
   margin-left:auto;
   margin-right:auto;
   text-align:left;
@@ -16,21 +16,21 @@
   position:absolute;
   z-index:0;
 }
-#u13 {
+#u14 {
   border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
-  width:2032px;
-  height:1632px;
+  width:3329px;
+  height:3279px;
 }
-#u13_state0 {
+#u14_state0 {
   border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
-  width:2032px;
-  height:1632px;
+  width:3329px;
+  height:3279px;
   -ms-overflow-x:hidden;
   overflow-x:hidden;
   -ms-overflow-y:hidden;
@@ -42,7 +42,7 @@
   -webkit-box-shadow:none;
   box-shadow:none;
 }
-#u13_state0_content {
+#u14_state0_content {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -50,13 +50,13 @@
   width:1px;
   height:1px;
 }
-#u13_state1 {
+#u14_state1 {
   border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
-  width:2032px;
-  height:1632px;
+  width:3329px;
+  height:3279px;
   -ms-overflow-x:hidden;
   overflow-x:hidden;
   -ms-overflow-y:hidden;
@@ -69,7 +69,7 @@
   box-shadow:none;
   visibility:hidden;
 }
-#u13_state1_content {
+#u14_state1_content {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -77,7 +77,7 @@
   width:1px;
   height:1px;
 }
-#u14_img {
+#u15_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -85,7 +85,7 @@
   width:2032px;
   height:1554px;
 }
-#u14 {
+#u15 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -94,138 +94,34 @@
   height:1554px;
   display:flex;
 }
-#u14 .text {
+#u15 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u14_text {
+#u15_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
   visibility:hidden;
 }
-#u15_input {
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:461px;
-  height:31px;
-  padding:2px 0px 2px 2px;
-  font-family:'Yekan Bakh FaNum Bold', 'Yekan Bakh FaNum', sans-serif;
-  font-weight:700;
-  font-style:normal;
-  font-size:14px;
-  letter-spacing:normal;
-  color:#FFFFFF;
-  vertical-align:none;
-  text-align:right;
-  text-transform:none;
-  background-color:transparent;
-  border-color:transparent;
-}
-#u15_input.disabled {
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:461px;
-  height:31px;
-  padding:2px 0px 2px 2px;
-  font-family:'Yekan Bakh FaNum Bold', 'Yekan Bakh FaNum', sans-serif;
-  font-weight:700;
-  font-style:normal;
-  font-size:14px;
-  letter-spacing:normal;
-  color:#FFFFFF;
-  vertical-align:none;
-  text-align:right;
-  text-transform:none;
-  background-color:transparent;
-  border-color:transparent;
-}
-#u15_div {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:461px;
-  height:31px;
-  background:inherit;
-  background-color:rgba(57, 8, 56, 1);
-  border:none;
-  border-radius:0px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
-  font-family:'Yekan Bakh FaNum Bold', 'Yekan Bakh FaNum', sans-serif;
-  font-weight:700;
-  font-style:normal;
-  font-size:14px;
-  color:#FFFFFF;
-  text-align:right;
-}
-#u15 {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:25px;
-  width:461px;
-  height:31px;
-  display:flex;
-  font-family:'Yekan Bakh FaNum Bold', 'Yekan Bakh FaNum', sans-serif;
-  font-weight:700;
-  font-style:normal;
-  font-size:14px;
-  color:#FFFFFF;
-  text-align:right;
-}
-#u15 .text {
-  position:absolute;
-  align-self:center;
-  padding:2px 0px 2px 2px;
-  box-sizing:border-box;
-  width:100%;
-}
-#u15_div.disabled {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:461px;
-  height:31px;
-  background:inherit;
-  background-color:rgba(240, 240, 240, 1);
-  border:none;
-  border-radius:0px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
-  font-family:'Yekan Bakh FaNum Bold', 'Yekan Bakh FaNum', sans-serif;
-  font-weight:700;
-  font-style:normal;
-  font-size:14px;
-  color:#FFFFFF;
-  text-align:right;
-}
-#u15.disabled {
-}
 #u16_input {
   position:absolute;
   left:0px;
   top:0px;
-  width:1571px;
+  width:461px;
   height:31px;
-  padding:2px 2px 2px 0px;
-  font-family:'Yekan Bakh FaNum Bold', 'Yekan Bakh FaNum', sans-serif;
+  padding:2px 0px 2px 2px;
+  font-family:'Yekan Bakh FaNum Bold', 'Yekan Bakh FaNum Regular', 'Yekan Bakh FaNum', sans-serif;
   font-weight:700;
   font-style:normal;
   font-size:14px;
   letter-spacing:normal;
   color:#FFFFFF;
   vertical-align:none;
-  text-align:left;
+  text-align:right;
   text-transform:none;
   background-color:transparent;
   border-color:transparent;
@@ -234,17 +130,17 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:1571px;
+  width:461px;
   height:31px;
-  padding:2px 2px 2px 0px;
-  font-family:'Yekan Bakh FaNum Bold', 'Yekan Bakh FaNum', sans-serif;
+  padding:2px 0px 2px 2px;
+  font-family:'Yekan Bakh FaNum Bold', 'Yekan Bakh FaNum Regular', 'Yekan Bakh FaNum', sans-serif;
   font-weight:700;
   font-style:normal;
   font-size:14px;
   letter-spacing:normal;
   color:#FFFFFF;
   vertical-align:none;
-  text-align:left;
+  text-align:right;
   text-transform:none;
   background-color:transparent;
   border-color:transparent;
@@ -254,6 +150,110 @@
   position:absolute;
   left:0px;
   top:0px;
+  width:461px;
+  height:31px;
+  background:inherit;
+  background-color:rgba(57, 8, 56, 1);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Yekan Bakh FaNum Bold', 'Yekan Bakh FaNum Regular', 'Yekan Bakh FaNum', sans-serif;
+  font-weight:700;
+  font-style:normal;
+  font-size:14px;
+  color:#FFFFFF;
+  text-align:right;
+}
+#u16 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:25px;
+  width:461px;
+  height:31px;
+  display:flex;
+  font-family:'Yekan Bakh FaNum Bold', 'Yekan Bakh FaNum Regular', 'Yekan Bakh FaNum', sans-serif;
+  font-weight:700;
+  font-style:normal;
+  font-size:14px;
+  color:#FFFFFF;
+  text-align:right;
+}
+#u16 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 0px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u16_div.disabled {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:461px;
+  height:31px;
+  background:inherit;
+  background-color:rgba(240, 240, 240, 1);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Yekan Bakh FaNum Bold', 'Yekan Bakh FaNum Regular', 'Yekan Bakh FaNum', sans-serif;
+  font-weight:700;
+  font-style:normal;
+  font-size:14px;
+  color:#FFFFFF;
+  text-align:right;
+}
+#u16.disabled {
+}
+#u17_input {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1571px;
+  height:31px;
+  padding:2px 2px 2px 0px;
+  font-family:'Yekan Bakh FaNum Bold', 'Yekan Bakh FaNum Regular', 'Yekan Bakh FaNum', sans-serif;
+  font-weight:700;
+  font-style:normal;
+  font-size:14px;
+  letter-spacing:normal;
+  color:#FFFFFF;
+  vertical-align:none;
+  text-align:left;
+  text-transform:none;
+  background-color:transparent;
+  border-color:transparent;
+}
+#u17_input.disabled {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1571px;
+  height:31px;
+  padding:2px 2px 2px 0px;
+  font-family:'Yekan Bakh FaNum Bold', 'Yekan Bakh FaNum Regular', 'Yekan Bakh FaNum', sans-serif;
+  font-weight:700;
+  font-style:normal;
+  font-size:14px;
+  letter-spacing:normal;
+  color:#FFFFFF;
+  vertical-align:none;
+  text-align:left;
+  text-transform:none;
+  background-color:transparent;
+  border-color:transparent;
+}
+#u17_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
   width:1571px;
   height:31px;
   background:inherit;
@@ -263,13 +263,13 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Yekan Bakh FaNum Bold', 'Yekan Bakh FaNum', sans-serif;
+  font-family:'Yekan Bakh FaNum Bold', 'Yekan Bakh FaNum Regular', 'Yekan Bakh FaNum', sans-serif;
   font-weight:700;
   font-style:normal;
   font-size:14px;
   color:#FFFFFF;
 }
-#u16 {
+#u17 {
   border-width:0px;
   position:absolute;
   left:461px;
@@ -277,20 +277,20 @@
   width:1571px;
   height:31px;
   display:flex;
-  font-family:'Yekan Bakh FaNum Bold', 'Yekan Bakh FaNum', sans-serif;
+  font-family:'Yekan Bakh FaNum Bold', 'Yekan Bakh FaNum Regular', 'Yekan Bakh FaNum', sans-serif;
   font-weight:700;
   font-style:normal;
   font-size:14px;
   color:#FFFFFF;
 }
-#u16 .text {
+#u17 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 0px;
   box-sizing:border-box;
   width:100%;
 }
-#u16_div.disabled {
+#u17_div.disabled {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -304,15 +304,15 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Yekan Bakh FaNum Bold', 'Yekan Bakh FaNum', sans-serif;
+  font-family:'Yekan Bakh FaNum Bold', 'Yekan Bakh FaNum Regular', 'Yekan Bakh FaNum', sans-serif;
   font-weight:700;
   font-style:normal;
   font-size:14px;
   color:#FFFFFF;
 }
-#u16.disabled {
+#u17.disabled {
 }
-#u17 {
+#u18 {
   border-width:0px;
   position:absolute;
   left:268px;
@@ -320,7 +320,7 @@
   width:73px;
   height:55px;
 }
-#u17_state0 {
+#u18_state0 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -338,7 +338,7 @@
   -webkit-box-shadow:none;
   box-shadow:none;
 }
-#u17_state0_content {
+#u18_state0_content {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -346,7 +346,7 @@
   width:1px;
   height:1px;
 }
-#u18_img {
+#u19_img {
   border-width:0px;
   position:absolute;
   left:-13px;
@@ -354,7 +354,7 @@
   width:31px;
   height:47px;
 }
-#u18 {
+#u19 {
   border-width:0px;
   position:absolute;
   left:34px;
@@ -368,27 +368,27 @@
   transform:rotate(178.807831303036deg);
   color:#EA1347;
 }
-#u18 .text {
+#u19 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u18_text {
+#u19_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
   visibility:hidden;
 }
-#u19_input {
+#u20_input {
   position:absolute;
   left:0px;
   top:0px;
   width:71px;
   height:19px;
   padding:2px 2px 2px 2px;
-  font-family:'Yekan Bakh FaNum ExtraBold', 'Yekan Bakh FaNum', sans-serif;
+  font-family:'Yekan Bakh FaNum ExtraBold', 'Yekan Bakh FaNum Regular', 'Yekan Bakh FaNum', sans-serif;
   font-weight:800;
   font-style:normal;
   font-size:13px;
@@ -400,14 +400,14 @@
   background-color:transparent;
   border-color:transparent;
 }
-#u19_input.disabled {
+#u20_input.disabled {
   position:absolute;
   left:0px;
   top:0px;
   width:71px;
   height:19px;
   padding:2px 2px 2px 2px;
-  font-family:'Yekan Bakh FaNum ExtraBold', 'Yekan Bakh FaNum', sans-serif;
+  font-family:'Yekan Bakh FaNum ExtraBold', 'Yekan Bakh FaNum Regular', 'Yekan Bakh FaNum', sans-serif;
   font-weight:800;
   font-style:normal;
   font-size:13px;
@@ -419,7 +419,7 @@
   background-color:transparent;
   border-color:transparent;
 }
-#u19_div {
+#u20_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -433,12 +433,12 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Yekan Bakh FaNum ExtraBold', 'Yekan Bakh FaNum', sans-serif;
+  font-family:'Yekan Bakh FaNum ExtraBold', 'Yekan Bakh FaNum Regular', 'Yekan Bakh FaNum', sans-serif;
   font-weight:800;
   font-style:normal;
   color:#EA1347;
 }
-#u19 {
+#u20 {
   border-width:0px;
   position:absolute;
   left:2px;
@@ -446,19 +446,19 @@
   width:71px;
   height:19px;
   display:flex;
-  font-family:'Yekan Bakh FaNum ExtraBold', 'Yekan Bakh FaNum', sans-serif;
+  font-family:'Yekan Bakh FaNum ExtraBold', 'Yekan Bakh FaNum Regular', 'Yekan Bakh FaNum', sans-serif;
   font-weight:800;
   font-style:normal;
   color:#EA1347;
 }
-#u19 .text {
+#u20 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u19_div.disabled {
+#u20_div.disabled {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -472,14 +472,14 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Yekan Bakh FaNum ExtraBold', 'Yekan Bakh FaNum', sans-serif;
+  font-family:'Yekan Bakh FaNum ExtraBold', 'Yekan Bakh FaNum Regular', 'Yekan Bakh FaNum', sans-serif;
   font-weight:800;
   font-style:normal;
   color:#EA1347;
 }
-#u19.disabled {
+#u20.disabled {
 }
-#u17_state1 {
+#u18_state1 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -498,7 +498,7 @@
   box-shadow:none;
   visibility:hidden;
 }
-#u17_state1_content {
+#u18_state1_content {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -506,7 +506,7 @@
   width:1px;
   height:1px;
 }
-#u20_img {
+#u21_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -514,7 +514,7 @@
   width:139px;
   height:43px;
 }
-#u20 {
+#u21 {
   border-width:0px;
   position:absolute;
   left:235px;
@@ -523,53 +523,6 @@
   height:43px;
   display:flex;
   opacity:0;
-}
-#u20 .text {
-  position:absolute;
-  align-self:center;
-  padding:2px 2px 2px 2px;
-  box-sizing:border-box;
-  width:100%;
-}
-#u20_text {
-  border-width:0px;
-  word-wrap:break-word;
-  text-transform:none;
-  visibility:hidden;
-}
-#u21_div {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:354px;
-  height:22px;
-  background:inherit;
-  background-color:rgba(255, 255, 255, 0.47843137254902);
-  border:none;
-  border-radius:5px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
-  font-family:'Yekan Bakh FaNum', sans-serif;
-  font-weight:400;
-  font-style:normal;
-  font-size:14px;
-  text-align:left;
-}
-#u21 {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:1610px;
-  width:354px;
-  height:22px;
-  display:flex;
-  font-family:'Yekan Bakh FaNum', sans-serif;
-  font-weight:400;
-  font-style:normal;
-  font-size:14px;
-  text-align:left;
 }
 #u21 .text {
   position:absolute;
@@ -582,6 +535,7 @@
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
+  visibility:hidden;
 }
 #u22_div {
   border-width:0px;
@@ -635,4 +589,259 @@
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
+}
+#u23_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:3303px;
+  height:1516px;
+}
+#u23 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:1726px;
+  width:3303px;
+  height:1516px;
+  display:flex;
+}
+#u23 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u23_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+  visibility:hidden;
+}
+#u24 {
+  border-width:0px;
+  position:absolute;
+  left:262px;
+  top:1944px;
+  width:73px;
+  height:55px;
+}
+#u24_state0 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:73px;
+  height:55px;
+  -ms-overflow-x:hidden;
+  overflow-x:hidden;
+  -ms-overflow-y:hidden;
+  overflow-y:hidden;
+  background-image:none;
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+}
+#u24_state0_content {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1px;
+  height:1px;
+}
+#u25_img {
+  border-width:0px;
+  position:absolute;
+  left:-13px;
+  top:-3px;
+  width:31px;
+  height:47px;
+}
+#u25 {
+  border-width:0px;
+  position:absolute;
+  left:34px;
+  top:2px;
+  width:5px;
+  height:31px;
+  display:flex;
+  -webkit-transform:rotate(178.807831303036deg);
+  -moz-transform:rotate(178.807831303036deg);
+  -ms-transform:rotate(178.807831303036deg);
+  transform:rotate(178.807831303036deg);
+  color:#EA1347;
+}
+#u25 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u25_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+  visibility:hidden;
+}
+#u26_input {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:71px;
+  height:19px;
+  padding:2px 2px 2px 2px;
+  font-family:'Yekan Bakh FaNum ExtraBold', 'Yekan Bakh FaNum Regular', 'Yekan Bakh FaNum', sans-serif;
+  font-weight:800;
+  font-style:normal;
+  font-size:13px;
+  letter-spacing:normal;
+  color:#EA1347;
+  vertical-align:none;
+  text-align:left;
+  text-transform:none;
+  background-color:transparent;
+  border-color:transparent;
+}
+#u26_input.disabled {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:71px;
+  height:19px;
+  padding:2px 2px 2px 2px;
+  font-family:'Yekan Bakh FaNum ExtraBold', 'Yekan Bakh FaNum Regular', 'Yekan Bakh FaNum', sans-serif;
+  font-weight:800;
+  font-style:normal;
+  font-size:13px;
+  letter-spacing:normal;
+  color:#EA1347;
+  vertical-align:none;
+  text-align:left;
+  text-transform:none;
+  background-color:transparent;
+  border-color:transparent;
+}
+#u26_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:71px;
+  height:19px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Yekan Bakh FaNum ExtraBold', 'Yekan Bakh FaNum Regular', 'Yekan Bakh FaNum', sans-serif;
+  font-weight:800;
+  font-style:normal;
+  color:#EA1347;
+}
+#u26 {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:35px;
+  width:71px;
+  height:19px;
+  display:flex;
+  font-family:'Yekan Bakh FaNum ExtraBold', 'Yekan Bakh FaNum Regular', 'Yekan Bakh FaNum', sans-serif;
+  font-weight:800;
+  font-style:normal;
+  color:#EA1347;
+}
+#u26 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u26_div.disabled {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:71px;
+  height:19px;
+  background:inherit;
+  background-color:rgba(240, 240, 240, 1);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Yekan Bakh FaNum ExtraBold', 'Yekan Bakh FaNum Regular', 'Yekan Bakh FaNum', sans-serif;
+  font-weight:800;
+  font-style:normal;
+  color:#EA1347;
+}
+#u26.disabled {
+}
+#u24_state1 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:73px;
+  height:55px;
+  -ms-overflow-x:hidden;
+  overflow-x:hidden;
+  -ms-overflow-y:hidden;
+  overflow-y:hidden;
+  background-image:none;
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  visibility:hidden;
+}
+#u24_state1_content {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1px;
+  height:1px;
+}
+#u27_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:151px;
+  height:48px;
+}
+#u27 {
+  border-width:0px;
+  position:absolute;
+  left:262px;
+  top:1892px;
+  width:151px;
+  height:48px;
+  display:flex;
+  opacity:0;
+}
+#u27 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u27_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+  visibility:hidden;
 }
